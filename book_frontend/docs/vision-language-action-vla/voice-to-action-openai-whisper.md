@@ -1,7 +1,7 @@
 ---
-title: Voice-to-Action with OpenAI Whisper
-sidebar_label: Voice-to-Action with OpenAI Whisper
-description: Understanding voice-to-action implementation using OpenAI Whisper for AI and robotics students
+title: "Voice-to-Action with OpenAI Whisper"
+sidebar_label: "Voice-to-Action with OpenAI Whisper"
+description: "Understanding voice-to-action implementation using OpenAI Whisper for AI and robotics students"
 ---
 
 # Voice-to-Action with OpenAI Whisper

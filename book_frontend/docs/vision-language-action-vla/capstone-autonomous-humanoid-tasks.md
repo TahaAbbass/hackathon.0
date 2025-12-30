@@ -1,7 +1,7 @@
 ---
-title: Capstone: Autonomous Humanoid executing tasks
-sidebar_label: Capstone: Autonomous Humanoid executing tasks
-description: Implementing a complete VLA system with voice commands controlling autonomous humanoid robot tasks
+title: "Capstone: Autonomous Humanoid executing tasks"
+sidebar_label: "Capstone: Autonomous Humanoid executing tasks"
+description: "Implementing a complete VLA system with voice commands controlling autonomous humanoid robot tasks"
 ---
 
 # Capstone: Autonomous Humanoid executing tasks

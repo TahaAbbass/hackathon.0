@@ -1,7 +1,7 @@
 ---
-title: Sensor Simulation & Validation
-sidebar_label: Sensor Simulation & Validation
-description: Understanding sensor simulation (LiDAR, depth cameras, IMU) and validation techniques
+title: "Sensor Simulation & Validation"
+sidebar_label: "Sensor Simulation & Validation"
+description: "Understanding sensor simulation (LiDAR, depth cameras, IMU) and validation techniques"
 ---
 
 # Sensor Simulation & Validation

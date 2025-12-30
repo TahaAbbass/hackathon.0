@@ -1,7 +1,7 @@
 ---
-title: Cognitive Planning using LLMs for ROS 2
-sidebar_label: Cognitive Planning using LLMs for ROS 2
-description: Understanding how to use LLMs for cognitive planning to convert natural language commands into ROS 2 actions
+title: "Cognitive Planning using LLMs for ROS 2"
+sidebar_label: "Cognitive Planning using LLMs for ROS 2"
+description: "Understanding how to use LLMs for cognitive planning to convert natural language commands into ROS 2 actions"
 ---
 
 # Cognitive Planning using LLMs for ROS 2
