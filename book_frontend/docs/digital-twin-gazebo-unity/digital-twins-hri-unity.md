@@ -1,7 +1,7 @@
 ---
-title: Digital Twins & HRI in Unity
-sidebar_label: Digital Twins & HRI in Unity
-description: Understanding high-fidelity digital twins and Human-Robot Interaction (HRI) using Unity
+title: "Digital Twins & HRI in Unity"
+sidebar_label: "Digital Twins & HRI in Unity"
+description: "Understanding high-fidelity digital twins and Human-Robot Interaction (HRI) using Unity"
 ---
 
 # Digital Twins & HRI in Unity
