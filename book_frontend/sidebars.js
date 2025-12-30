@@ -45,6 +45,15 @@ const sidebars = {
         'ai-robot-brain-nvidia-isaac/nav2-path-planning-humanoid-robots',
       ],
     },
+    {
+      type: 'category',
+      label: 'Module 4: Vision-Language-Action (VLA)',
+      items: [
+        'vision-language-action-vla/voice-to-action-openai-whisper',
+        'vision-language-action-vla/cognitive-planning-llms-ros2',
+        'vision-language-action-vla/capstone-autonomous-humanoid-tasks',
+      ],
+    },
   ],
 
   // But you can create a sidebar manually
